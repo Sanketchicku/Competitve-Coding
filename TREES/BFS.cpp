@@ -2,5 +2,5 @@
 using namespace std;
 int main()
 {
-	cout<<"done"<<endl;
+	cout<<"done2"<<endl;
 }
